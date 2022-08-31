@@ -28,10 +28,9 @@
 
 >## How to run the application:
 #### Just access the following the link below:
-```
-<a> https://m4rxhs-cyber.github.io/Satisfaction-Survey/ </a>
 
-```
+><a href='https://m4rxhs-cyber.github.io/Satisfaction-Survey/'> https://m4rxhs-cyber.github.io/Satisfaction-Survey/ </a>
+
 >## Student view
 https://user-images.githubusercontent.com/84638124/187321216-8cb8b837-f8df-48e8-a359-22bcb4969f3a.mp4
 
